@@ -43,8 +43,8 @@
     "dirty-chai": "^2.0.1"
   },
   "dependencies": {
-    "multiaddr": "^5.0.0",
-    "mafmt": "^6.0.0",
+    "mafmt": "dryajov/js-mafmt",
+    "multiaddr": "dryajov/js-multiaddr",
     "lodash.uniqby": "^4.7.0",
     "peer-id": "~0.10.7"
   },
